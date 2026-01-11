@@ -29,3 +29,7 @@ The application also demonstrates important software engineering concepts such a
 From a learning and development perspective, this project provides valuable exposure to full-stack web development. It integrates frontend design, backend server logic, and real-time networking into a single cohesive system. The modular structure of the codebase makes it easy to understand, modify, and extend. New features such as user authentication, chat rooms, file sharing, or message storage using a database can be added without redesigning the entire architecture.
 
 Overall, this real-time chat application serves as both a functional communication tool and a technical demonstration of modern web technologies. It showcases how React, Node.js, Express, and Socket.io can work together to create fast, responsive, and scalable web applications. The project reflects professional development practices, clean design principles, and a strong understanding of real-time system architecture, making it an excellent portfolio project for frontend and full-stack web development.
+
+
+#OUTPUT:
+<img width="1918" height="805" alt="Image" src="https://github.com/user-attachments/assets/c5a36931-2898-46e5-ae84-0e1339c76c94" />
